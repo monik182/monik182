@@ -7,7 +7,7 @@ Frontend Engineer
 
 * 🌍  I'm based in Colombia
 <!-- * ✉️  You can contact me at [monica.ccarvajal@gmail.com](mailto:monica.ccarvajal@gmail.com) -->
-* 🧠  I'm learning Pandas
+* 🧠  I'm learning LangChain
 
 <br>
 
