@@ -1,57 +1,59 @@
-Hi 👋 My name is Mónica Carvajal
-=======================================================================================================================================
-<!-- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mónica Carvajal -->
+# Hi 👋 I’m Mónica Carvajal
 
-Frontend Engineer
------------------
+## Frontend Engineer & AI Enthusiast
 
-* 🌍  I'm based in Colombia
-<!-- * ✉️  You can contact me at [monica.ccarvajal@gmail.com](mailto:monica.ccarvajal@gmail.com) -->
-* 🧠  I'm learning LangChain
+- 🌍  I’m based in Spain
+- 🧠  Blending React UIs with AI (OpenAI, LangChain, Python)
+- 💼  ![Open for Freelance](https://img.shields.io/badge/Open%20for%20Freelance-Yes-green)
 
 <br>
 
 ### **Skills**
-
 <p align="left">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-  <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" alt="TypeScript" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" alt="JavaScript" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" alt="React" /></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/frameworks/nextjs-colored.svg" width="36" alt="Next.js" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" alt="Python" /></a>
+  <a href="https://platform.openai.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/openai-colored.svg" width="36" alt="OpenAI" /></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" alt="Firebase" /></a>
 </p>
+
+<br>
+
+### 🚀 **GitHub Widgets & Stats**
+<p align="left">
+  <a href="https://github.com/monik182/REPO_NAME1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=monik182&repo=REPO_NAME1" alt="Repo 1" /></a>
+  <a href="https://github.com/monik182/REPO_NAME2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=monik182&repo=REPO_NAME2" alt="Repo 2" /></a>
+  <a href="https://github.com/monik182/REPO_NAME3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=monik182&repo=REPO_NAME3" alt="Repo 3" /></a>
+</p>
+<p align="left">
+  <a href="https://github.com/monik182"><img src="https://github-readme-stats.vercel.app/api?username=monik182&show_icons=true&count_private=true&hide_border=true" alt="GitHub stats" /></a>
+  <a href="https://github.com/monik182"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monik182&langs_count=10&hide_border=true" alt="Top Languages" /></a>
+</p>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=monik182&theme=github" alt="Contribution Graph" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=monik182&theme=dark&hide_border=true" alt="Streak Stats" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=monik182&theme=radical&row=1&column=3" alt="Trophies" />
+</p>
+
+<br>
+
+### 🎧 **Now Listening**
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=true&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 <br>
 
 ### 🔗 **Connect with me**
-
-<p align="left"> 
-  <a href="https://www.github.com/monik182" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-  <a href="https://www.linkedin.com/in/carvajalmonica" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-  <!-- <a href="https://www.twitter.com/COMMENT" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> -->
-</p>
-
-<br>
-
-###  📊 **Stats**
-
-#### My GitHub Stats
-
 <p align="left">
-  <a href="http://www.github.com/monik182"><img src="https://github-readme-stats.vercel.app/api?username=monik182&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=1c1917&icon_color=0891b2&hide_border=true&show_icons=true" alt="monik182's GitHub stats" /></a>
-
-  <a href="https://github.com/monik182"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monik182&langs_count=10&title_color=0891b2&text_color=1c1917&icon_color=0891b2&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  <a href="https://github.com/monik182" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/carvajalmonica" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" alt="LinkedIn" /></a>
 </p>
 
+---
 
-<!-- #### This week I spent my time on
-
-![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=@monik182&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=fff) -->
-
+> “The only way to do great work is to love what you do.” – Steve Jobs  
