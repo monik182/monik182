@@ -23,7 +23,7 @@ Software Engineer based in Spain. I build web apps and like to prototype with AI
 
 ### What I'm building
 
-🗓️ **[The Planner App](https://plannerapp.site/)** — Productivity tool for the 12 Week Year methodology. 315+ registered users, growing organically.
+🗓️ <a href="https://plannerapp.site/" target="_blank"><strong>The Planner App</strong></a> — Productivity tool for the 12 Week Year methodology. 315+ registered users, growing organically.
 `React` `Next.js` `Supabase` `Vercel`
 
 📄 **PDF Expense Extractor** — AI-powered table extraction from PDFs, exported to CSV/XLSX.
