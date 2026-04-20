@@ -23,10 +23,13 @@ Software Engineer based in Spain. I build web apps and like to prototype with AI
 
 ### What I'm building
 
-🗓️ <a href="https://plannerapp.site/" target="_blank"><strong>The Planner App</strong></a> — Productivity tool for the 12 Week Year methodology. 315+ registered users, growing organically.
+🗓️ <a href="https://plannerapp.site/" target="_blank"><strong>The Planner App</strong></a> — Productivity tool for the 12 Week Year methodology. 350+ registered users, growing organically.
 `React` `Next.js` `Supabase` `Vercel`
 
-📄 **PDF Expense Extractor** — AI-powered table extraction from PDFs, exported to CSV/XLSX.
+🟣 <a href="https://weshowup.club/" target="_blank"><strong>We Show Up Club</strong></a> — Track habits with your crew: create a group, pick your activities, and see who's showing up.
+`React` `Supabase` `Cloudflare`
+
+📄 **PDF Expense Extractor [In Progress]** — AI-powered table extraction from PDFs, exported to CSV/XLSX.
 `React` `Vite` `Supabase` `OpenAI` `Stripe`
 
 ### Connect with me
