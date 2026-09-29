@@ -22,7 +22,7 @@ The app itself is private, but I documented the product decisions, architecture 
 
 <img src="assets/badges/next-js.svg" alt="Next.js" height="27" /> <img src="assets/badges/typescript.svg" alt="TypeScript" height="27" /> <img src="assets/badges/openai.svg" alt="OpenAI" height="27" /> <img src="assets/badges/azure.svg" alt="Azure" height="27" /> <img src="assets/badges/postgresql.svg" alt="PostgreSQL" height="27" /> <img src="assets/badges/tmdb.svg" alt="TMDB" height="27" />
 
-→ <a href="https://monicarvajal.com/work/cinefile" target="_blank" rel="noopener noreferrer">Read the case study</a>
+→ <a href="https://monicarvajal.com/projects/cinefile" target="_blank" rel="noopener noreferrer">Read the case study</a>
 
 ---
 
