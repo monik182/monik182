@@ -60,7 +60,7 @@ It also adapts the output based on the cinema and screening details.
 
 <img src="assets/badges/chatgpt-sites.svg" alt="ChatGPT Sites" height="27" /> <img src="assets/badges/ai.svg" alt="AI" height="27" /> <img src="assets/badges/javascript.svg" alt="JavaScript" height="27" />
 
-→ <a href="https://monicarvajal.com/projects/generator" target="_blank" rel="noopener noreferrer">Read the case study</a>
+→ <a href="https://monicarvajal.com/projects/screening-generator" target="_blank" rel="noopener noreferrer">Read the case study</a>
 
 ---
 
