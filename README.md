@@ -20,7 +20,7 @@ It extracts recommendations from reels, captions, images and carousels, matches 
 
 The app itself is private. A case study covering the product decisions, architecture and iterations is coming soon.
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![TMDB](https://img.shields.io/badge/TMDB-01B4E4?style=flat&logo=themoviedatabase&logoColor=white)
+![Next.js](assets/badges/next-js.svg) ![TypeScript](assets/badges/typescript.svg) ![OpenAI](assets/badges/openai.svg) ![Azure](assets/badges/azure.svg) ![PostgreSQL](assets/badges/postgresql.svg) ![TMDB](assets/badges/tmdb.svg)
 
 ---
 
@@ -30,7 +30,7 @@ A focused planning tool built around the 12 Week Year methodology.
 
 I originally built it for myself after getting tired of maintaining the same planning structure in spreadsheets. It now has **350+ registered users**, grown organically.
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![React](assets/badges/react.svg) ![Next.js](assets/badges/next-js.svg) ![Supabase](assets/badges/supabase.svg)
 
 → [Try the app](https://plannerapp.site/) · Case study coming soon
 
@@ -42,7 +42,7 @@ A pixel-art Kanban interface built on top of Google Sheets.
 
 The Sheet stays the source of truth while the app adds drag-and-drop workflows, filtering, real-time write-back and an integrated Claude workspace for developing product ideas.
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![React](assets/badges/react.svg) ![TypeScript](assets/badges/typescript.svg) ![Google Sheets](assets/badges/google-sheets.svg) ![Claude](assets/badges/claude.svg) ![Vite](assets/badges/vite.svg)
 
 → [View the source](https://github.com/monik182/sheet-to-kanban) · Case study coming soon
 
@@ -56,7 +56,7 @@ I give it natural-language screening details — movie, cinema, date, ticket lin
 
 It also adapts the output based on the cinema and screening details.
 
-![ChatGPT Sites](https://img.shields.io/badge/ChatGPT%20Sites-412991?style=flat&logo=openai&logoColor=white) ![AI](https://img.shields.io/badge/AI-555555?style=flat) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![ChatGPT Sites](assets/badges/chatgpt-sites.svg) ![AI](assets/badges/ai.svg) ![JavaScript](assets/badges/javascript.svg)
 
 Case study coming soon
 
@@ -68,13 +68,13 @@ Case study coming soon
 
 An experiment around turning PDF expense documents into structured spreadsheet data.
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![React](assets/badges/react.svg) ![OpenAI](assets/badges/openai.svg) ![Supabase](assets/badges/supabase.svg)
 
 ---
 
 ## Tech I use
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![TypeScript](assets/badges/typescript.svg) ![JavaScript](assets/badges/javascript.svg) ![React](assets/badges/react.svg) ![Next.js](assets/badges/next-js.svg) ![Node.js](assets/badges/node-js.svg) ![Python](assets/badges/python.svg) ![PostgreSQL](assets/badges/postgresql.svg) ![Supabase](assets/badges/supabase.svg) ![OpenAI](assets/badges/openai.svg) ![Azure](assets/badges/azure.svg) ![Vite](assets/badges/vite.svg)
 
 I care more about choosing the right tools for the problem than using a specific stack.
 
